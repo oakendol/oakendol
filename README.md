@@ -1,21 +1,16 @@
 <div align="center">
 
-<table>
-<tr>
-<td>
+```text
+┌────────────────────────────── SYSTEM NOTICE ──────────────────────────────┐
 
-<sub>🇷🇺 RU — ПОЗИЦИЯ</sub>
+[ RU ] Осуждаю/Против использование специализированного программного
+       обеспечения с целью получения неправомерного преимущества над
+       другими пользователями/игроками запрещёнными способами.
 
-### Осуждаю/Против использование специализированного программного обеспечения с целью получения неправомерного преимущества над другими пользователями/игроками запрещёнными способами.
+────────────────────────────────────────────────────────────────────────────
 
-<br>
+[ EN ] I condemn/am against the use of specialized software for the
+       purpose of gaining an unfair advantage over other users/players
+       through prohibited means.
 
-<sub>🇬🇧 EN — STATEMENT</sub>
-
-### I condemn/am against the use of specialized software for the purpose of gaining an unfair advantage over other users/players through prohibited means.
-
-</td>
-</tr>
-</table>
-
-</div>
+└────────────────────────────────────────────────────────────────────────────┘
