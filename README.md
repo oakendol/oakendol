@@ -1,16 +1,23 @@
+```html
 <div align="center">
 
-```text
-┌────────────────────────────── SYSTEM NOTICE ──────────────────────────────┐
+```bash
+┌──[ USER POLICY ]──────────────────────────────────────────────[ 01 ]──┐
 
-[ RU ] Осуждаю/Против использование специализированного программного
-       обеспечения с целью получения неправомерного преимущества над
-       другими пользователями/игроками запрещёнными способами.
+  > LANGUAGE: RU
+  > STATUS: AGAINST
 
-────────────────────────────────────────────────────────────────────────────
+  Осуждаю/Против использование специализированного программного
+  обеспечения с целью получения неправомерного преимущества над
+  другими пользователями/игроками запрещёнными способами.
 
-[ EN ] I condemn/am against the use of specialized software for the
-       purpose of gaining an unfair advantage over other users/players
-       through prohibited means.
+  ──────────────────────────────────────────────────────────────────
 
-└────────────────────────────────────────────────────────────────────────────┘
+  > LANGUAGE: EN
+  > STATUS: AGAINST
+
+  I condemn/am against the use of specialized software for the
+  purpose of gaining an unfair advantage over other users/players
+  through prohibited means.
+
+└──────────────────────────────────────────────────────────────────────┘
