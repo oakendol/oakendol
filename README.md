@@ -2,17 +2,17 @@
 
 <table>
 <tr>
-<td align="center">
+<td>
 
-**🇷🇺 Русский**
+<sub>🇷🇺 RU — ПОЗИЦИЯ</sub>
 
-Осуждаю/Против использование специализированного программного обеспечения с целью получения неправомерного преимущества над другими пользователями/игроками запрещёнными способами.
+### Осуждаю/Против использование специализированного программного обеспечения с целью получения неправомерного преимущества над другими пользователями/игроками запрещёнными способами.
 
-<hr>
+<br>
 
-**🇬🇧 English**
+<sub>🇬🇧 EN — STATEMENT</sub>
 
-I condemn/am against the use of specialized software for the purpose of gaining an unfair advantage over other users/players through prohibited means.
+### I condemn/am against the use of specialized software for the purpose of gaining an unfair advantage over other users/players through prohibited means.
 
 </td>
 </tr>
